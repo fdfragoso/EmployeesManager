@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe\\source\\repos\\EmployeeManagementSolution\\Server\\Server.csproj": {}
+    "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe\\source\\repos\\EmployeeManagementSolution\\Server\\Server.csproj": {
+    "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe\\source\\repos\\EmployeeManagementSolution\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\Felipe\\source\\repos\\EmployeeManagementSolution\\Server\\Server.csproj",
+        "projectPath": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe\\source\\repos\\EmployeeManagementSolution\\Server\\obj\\",
+        "outputPath": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
