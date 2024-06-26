@@ -25,6 +25,21 @@ namespace Server.Controllers
             return Ok();
         }
 
+        [HttpDelete("{id}")]
+        public ActionResult<Employee> DeleteEmployeeById(int id)
+        {
+            Employee employee = _employeeRepository.GetEmployeeById(id);
+            if (employee != null)
+            {
+                _employeeRepository.Delete(employee);
+                return Ok();
+            }
+            else
+            {
+                return NotFound($"Employee with id: {id} does not exist!");
+            }
+        }
+
         [HttpGet]
         public IActionResult Get()
         {
@@ -40,12 +55,14 @@ namespace Server.Controllers
             Employee employee = _employeeRepository.GetEmployeeById(id);
             if (employee != null)
             {
-                return employee;
+                return Ok(employee);
             }
             else
             {
                 return NotFound($"Employee with id {id} does not exist!");
             }
         }
+
+
     }
 }
