@@ -12,11 +12,11 @@ namespace Server.Models
         public int Age { get; set; }
         public string? Photo { get; set; }
 
-        public Employee(string _name, int _age, string _photo)
+        public Employee(string name, int age, string photo)
         {
-            this.Name = _name ?? throw new ArgumentNullException(nameof(Name));
-            this.Age = _age;
-            this.Photo = _photo;
+            this.Name = name ?? throw new ArgumentNullException(nameof(Name));
+            this.Age = age;
+            this.Photo = photo;
         }
     }
 }

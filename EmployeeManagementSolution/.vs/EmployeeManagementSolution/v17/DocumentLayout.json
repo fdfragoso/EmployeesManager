@@ -3,28 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|c:\\users\\felipe\\documents\\employeesmanager\\employeemanagementsolution\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/._SQLEXPRESS/Employee/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|c:\\users\\felipe\\documents\\employeesmanager\\employeemanagementsolution\\server\\model\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|solutionrelative:server\\model\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Migrations\\20240626160416_GetEmployeeById.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\Migrations\\20240626160416_GetEmployeeById.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|c:\\users\\felipe\\documents\\employeesmanager\\employeemanagementsolution\\server\\model\\employeesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|solutionrelative:server\\model\\employeesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Migrations\\20240626160406_GetBookById.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\Migrations\\20240626160406_GetBookById.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|c:\\users\\felipe\\documents\\employeesmanager\\employeemanagementsolution\\server\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|solutionrelative:server\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|c:\\users\\felipe\\documents\\employeesmanager\\employeemanagementsolution\\server\\model\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|solutionrelative:server\\model\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|c:\\users\\felipe\\documents\\employeesmanager\\employeemanagementsolution\\server\\model\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|solutionrelative:server\\model\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|c:\\users\\felipe\\documents\\employeesmanager\\employeemanagementsolution\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|c:\\users\\felipe\\documents\\employeesmanager\\employeemanagementsolution\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|c:\\users\\felipe\\documents\\employeesmanager\\employeemanagementsolution\\server\\server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|solutionrelative:server\\server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|c:\\users\\felipe\\documents\\employeesmanager\\employeemanagementsolution\\server\\model\\employeesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|solutionrelative:server\\model\\employeesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|c:\\users\\felipe\\documents\\employeesmanager\\employeemanagementsolution\\server\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|solutionrelative:server\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|c:\\users\\felipe\\documents\\employeesmanager\\employeemanagementsolution\\server\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F388476-CD71-459D-B19D-D568CE147BC9}|Server\\Server.csproj|solutionrelative:server\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +53,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Employees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/._SQLEXPRESS/Employee/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "dbo.Employees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-26T16:05:40.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240626160416_GetEmployeeById.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Migrations\\20240626160416_GetEmployeeById.cs",
+              "RelativeDocumentMoniker": "Server\\Migrations\\20240626160416_GetEmployeeById.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Migrations\\20240626160416_GetEmployeeById.cs",
+              "RelativeToolTip": "Server\\Migrations\\20240626160416_GetEmployeeById.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:04:16.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240626160406_GetBookById.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Migrations\\20240626160406_GetBookById.cs",
+              "RelativeDocumentMoniker": "Server\\Migrations\\20240626160406_GetBookById.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Migrations\\20240626160406_GetBookById.cs",
+              "RelativeToolTip": "Server\\Migrations\\20240626160406_GetBookById.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:04:06.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Server\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Model\\Employee.cs",
+              "RelativeToolTip": "Server\\Model\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:20:55.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\ViewModel\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "Server\\ViewModel\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\ViewModel\\EmployeeViewModel.cs",
+              "RelativeToolTip": "Server\\ViewModel\\EmployeeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:45:37.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Server\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwC4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:42:05.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IEmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Model\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "Server\\Model\\IEmployeeRepository.cs",
               "ToolTip": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Model\\IEmployeeRepository.cs",
               "RelativeToolTip": "Server\\Model\\IEmployeeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T20:23:36.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "EmployeesRepository.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Model\\EmployeesRepository.cs",
               "RelativeDocumentMoniker": "Server\\Model\\EmployeesRepository.cs",
               "ToolTip": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Model\\EmployeesRepository.cs",
               "RelativeToolTip": "Server\\Model\\EmployeesRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwCkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T20:23:06.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "EmployeesDB.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Model\\EmployeesDB.cs",
               "RelativeDocumentMoniker": "Server\\Model\\EmployeesDB.cs",
@@ -77,41 +171,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\appsettings.json",
               "RelativeDocumentMoniker": "Server\\appsettings.json",
               "ToolTip": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\appsettings.json",
               "RelativeToolTip": "Server\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-25T20:17:41.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
               "ToolTip": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Program.cs",
               "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAABAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAB+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T20:17:25.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Server.http",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Server.http",
-              "RelativeDocumentMoniker": "Server\\Server.http",
-              "ToolTip": "C:\\Users\\Felipe\\Documents\\EmployeesManager\\EmployeeManagementSolution\\Server\\Server.http",
-              "RelativeToolTip": "Server\\Server.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-06-25T20:17:18.403Z",
               "EditorCaption": ""
             }
           ]
